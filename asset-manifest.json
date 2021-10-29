@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://zimchaa.github.io/csb-uht6j/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://zimchaa.github.io/csb-uht6j/static/js/main.c1bd34c9.chunk.js",
+    "main.js.map": "https://zimchaa.github.io/csb-uht6j/static/js/main.c1bd34c9.chunk.js.map",
+    "runtime-main.js": "https://zimchaa.github.io/csb-uht6j/static/js/runtime-main.0140de0d.js",
+    "runtime-main.js.map": "https://zimchaa.github.io/csb-uht6j/static/js/runtime-main.0140de0d.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://zimchaa.github.io/csb-uht6j/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://zimchaa.github.io/csb-uht6j/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://zimchaa.github.io/csb-uht6j/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://zimchaa.github.io/csb-uht6j/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://zimchaa.github.io/csb-uht6j/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0140de0d.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c1bd34c9.chunk.js"
+  ]
+}
