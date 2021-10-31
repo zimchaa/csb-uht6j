@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://zimchaa.github.io/csb-uht6j/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://zimchaa.github.io/csb-uht6j/static/js/main.a5afde61.chunk.js",
-    "main.js.map": "https://zimchaa.github.io/csb-uht6j/static/js/main.a5afde61.chunk.js.map",
+    "main.js": "https://zimchaa.github.io/csb-uht6j/static/js/main.efc2c81c.chunk.js",
+    "main.js.map": "https://zimchaa.github.io/csb-uht6j/static/js/main.efc2c81c.chunk.js.map",
     "runtime-main.js": "https://zimchaa.github.io/csb-uht6j/static/js/runtime-main.69fb6ab1.js",
     "runtime-main.js.map": "https://zimchaa.github.io/csb-uht6j/static/js/runtime-main.69fb6ab1.js.map",
     "static/js/2.98bf3c4a.chunk.js": "https://zimchaa.github.io/csb-uht6j/static/js/2.98bf3c4a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.69fb6ab1.js",
     "static/js/2.98bf3c4a.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.a5afde61.chunk.js"
+    "static/js/main.efc2c81c.chunk.js"
   ]
 }
